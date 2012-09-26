@@ -1,0 +1,6 @@
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\WebServer\bin\Debug\WebServer.exe.config
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\WebServer\bin\Debug\WebServer.exe
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\WebServer\bin\Debug\WebServer.pdb
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\WebServer\obj\Debug\WebServer.exe
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\WebServer\obj\Debug\WebServer.pdb

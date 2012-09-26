@@ -1,21 +1,62 @@
 var http = require('http');
-var request  = require('request');
 
 http.createServer(function (req, resp) {
 
-request('http://www.google.com', handler);
-request('http://www.google.com', handler);
+var options1 = {
+  host: 'localhost',
+  port: 8001,
+  path: '/',
+  method: 'GET'
+};
 
-var count = 0;
-function handler(error, response, body) {
-		if (!error && resp.statusCode == 200) {
-		    count++;
-		    resp.write(body) // Print the google web page.
-		  	if (count == 2) {
-			      resp.end();
-			}
+var options2 = {
+  host: 'localhost',
+  port: 8002,
+  path: '/',
+  method: 'GET'
+};
+
+var counter = 0;
+var data1 = "";
+var req = http.request(options1, function(res) {
+  res.setEncoding('utf8');
+  res.on('data', function (chunk) {
+    data1 += chunk;
+	//resp.write(chunk);
+  });
+  
+  res.on('end', function(){
+	counter++;
+	if(counter == 2)
+	{
+		resp.end(data1 + data2);
 	}
-}
+  });
+  
+});
+
+req.end();
+
+var data2 = "";
+var req2 = http.request(options2, function(res) {
+  res.setEncoding('utf8');
+  
+  res.on('data', function (chunk) {
+	data2 += chunk;
+	//resp.write(chunk);
+  });
+  
+  res.on('end', function(){
+	counter++;
+	if(counter == 2)
+	{
+		resp.end(data1 + data2);
+	}
+  });
+  
+});
+
+req2.end();
 
 
 }).listen(1337, '127.0.0.1');

@@ -1,0 +1,9 @@
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\bin\Debug\Monitor.exe.config
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\bin\Debug\Monitor.exe
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\bin\Debug\Monitor.pdb
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\obj\Debug\NodeJsDublin.Form1.resources
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\obj\Debug\NodeJsDublin.Properties.Resources.resources
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\obj\Debug\Monitor.csproj.GenerateResource.Cache
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\obj\Debug\Monitor.exe
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\dotnet\obj\Debug\Monitor.pdb

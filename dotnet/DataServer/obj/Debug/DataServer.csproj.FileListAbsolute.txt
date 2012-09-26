@@ -1,0 +1,5 @@
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\DataServer\bin\DataServer.dll
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\DataServer\bin\DataServer.pdb
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\DataServer\obj\Debug\DataServer.csprojResolveAssemblyReference.cache
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\DataServer\obj\Debug\DataServer.dll
+C:\Users\ANTON\Documents\GitHub\nodejsdublin-28-06-2012\dotnet\DataServer\obj\Debug\DataServer.pdb

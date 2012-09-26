@@ -1,0 +1,58 @@
+﻿Build started 27/08/2012 20:28:17.
+Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APACHE2 = C:\Development\jxta\JXTA_libs\libapr
+APPDATA = C:\Users\ANTON\AppData\Roaming
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = NO9LAP001
+ComSpec = C:\Windows\system32\cmd.exe
+FP_NO_HOST_CHECK = NO
+HOMEDRIVE = C:
+HOMEPATH = \Users\ANTON
+LOCALAPPDATA = C:\Users\ANTON\AppData\Local
+LOGONSERVER = \\NO9LAP001
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 2
+OPENSSL = C:\Development\jxta\JXTA_libs\openSSL
+OS = Windows_NT
+Path = C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Python27;C:\msysgit\msysgit\bin;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\Apache Software Foundation\Apache2.2\bin;C:\Users\ANTON\AppData\Roaming\npm;C:\Program Files (x86)\nodejs\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\ANTON\AppData\Local\Microsoft\VisualStudio\11.0\devenv.exe.config
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 23 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL = 6
+PROCESSOR_REVISION = 170a
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\
+PUBLIC = C:\Users\Public
+SESSIONNAME = Console
+SQLITE3 = C:\Development\jxta\JXTA_libs\sqlite3
+SSH_AGENT_PID = 6780
+SSH_AUTH_SOCK = /tmp/ssh-HHQWpc6664/agent.6664
+SystemDrive = C:
+SystemRoot = C:\Windows
+TEMP = C:\Users\ANTON\AppData\Local\Temp
+TMP = C:\Users\ANTON\AppData\Local\Temp
+USERDOMAIN = NO9LAP001
+USERNAME = ANTON
+USERPROFILE = C:\Users\ANTON
+VBOX_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+VisualStudioDir = C:\Users\ANTON\Documents\Visual Studio 11
+VisualStudioVersion = 11.0
+VS100COMNTOOLS = c:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\Tools\
+VS110COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VSLANG = 1033
+windir = C:\Windows
+XML2 = C:\Development\jxta\JXTA_libs\libxml
+ZLIB = C:\Development\jxta\JXTA_libs\zlib
+
+
+Build succeeded.
+
+Time Elapsed 00:00:00.22
